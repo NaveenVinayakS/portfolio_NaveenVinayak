@@ -13,6 +13,7 @@
 🌟 Ready to turn sentences into goldmines of information? Just hit play and let's learn, explore, and unlock the power of BERT for keyword extraction. Boost your skills and become a keyword-finding champ! 🚀🔑
 
 Resource: [Bert NER](https://github.com/NaveenVinayakS/portfolio_NaveenVinayak/blob/main/Notebooks/Token_classification_using_Bert.ipynb)
+<hr style="border: 1px solid #d3d3d3;">
 
 ## 2. Text Classifier using DistilBERT
 
@@ -27,3 +28,4 @@ Resource: [Bert NER](https://github.com/NaveenVinayakS/portfolio_NaveenVinayak/b
 🌟 Ready to unlock the potential of text analysis? Hit that play button to learn, experiment, and build your arsenal of AI tools. Dive into the exciting world of text classification and bring a new dimension to your problem-solving skills! 🚀📊
 
 Resource: [Notebook](https://github.com/NaveenVinayakS/portfolio_NaveenVinayak/blob/main/Notebooks/TextClassification.ipynb)
+<hr style="border: 1px solid #d3d3d3;">
