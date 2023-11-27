@@ -27,11 +27,3 @@ Resource: [Bert NER](https://github.com/NaveenVinayakS/portfolio_NaveenVinayak/b
 🌟 Ready to unlock the potential of text analysis? Hit that play button to learn, experiment, and build your arsenal of AI tools. Dive into the exciting world of text classification and bring a new dimension to your problem-solving skills! 🚀📊
 
 Resource: [Notebook](https://github.com/NaveenVinayakS/portfolio_NaveenVinayak/blob/main/Notebooks/TextClassification.ipynb)
-
-# My Project
-
-<div style="text-align: left;">
-
-[Visit GitHub Pages](https://github.com/NaveenVinayakS/portfolio_NaveenVinayak/blob/main/Notebooks/TextClassification.ipynb)
-
-</div>
