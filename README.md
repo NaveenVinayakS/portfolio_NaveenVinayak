@@ -19,11 +19,11 @@ Resource: [Bert NER](https://github.com/NaveenVinayakS/portfolio_NaveenVinayak/b
 
 🎬 Learn to Create Your Own Text Classifier with DistilBERT: Solving Any Text Classification Challenge!
 
-📚 Ever wondered how to tackle diverse text classification problems effortlessly? Look no further! In this video, I walk you through crafting your very own text classifier template using DistilBERT. Whether it's binary or multiclass classification, this template has you covered.
+📚 Ever wondered how to tackle diverse text classification problems effortlessly? Look no further! In this code, I walk you through crafting your very own text classifier template using DistilBERT. Whether it's binary or multiclass classification, this template has you covered.
 
 💡 Dive into the world of AI as we unravel the process of building an adaptable text classifier. Witness how we employ DistilBERT's power to address the complexities of various text classification tasks. To illustrate, we've chosen stock sentiment analysis as a captivating use case.
 
-⚙️ Get ready to gain hands-on experience. With this template, you'll be equipped to conquer a wide range of text classification challenges. No matter your level of expertise, whether you're a newcomer or a seasoned enthusiast, this video serves as your gateway to mastering text classification with DistilBERT.
+⚙️ Get ready to gain hands-on experience. With this template, you'll be equipped to conquer a wide range of text classification challenges. No matter your level of expertise, whether you're a newcomer or a seasoned enthusiast, this code serves as your gateway to mastering text classification with DistilBERT.
 
 🌟 Ready to unlock the potential of text analysis? Hit that play button to learn, experiment, and build your arsenal of AI tools. Dive into the exciting world of text classification and bring a new dimension to your problem-solving skills! 🚀📊
 
